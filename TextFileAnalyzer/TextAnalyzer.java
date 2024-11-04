@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class TextAnalyzer {
     public static void main(String[] args) {
-        String fileName = "tae.txt";
+        String fileName = "Haunties.txt";
         String textContent = "";
 
         try (BufferedReader reader = new BufferedReader(new FileReader(fileName))) {
