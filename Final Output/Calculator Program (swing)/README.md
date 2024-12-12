@@ -2,7 +2,7 @@
 This Calculator application is a simple Java program with a graphical user interface (GUI) that allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. The application uses Java's Swing library to create the interface, and it saves a history of calculations in a file called calculator_history.txt.
 
 ### Key Features:
-1.**Basic Arithmetic Operations:**
+1.**Basic Arithmetic Operations:**/N
   -Perform calculations for addition (+), subtraction (-), multiplication (*), and division (/).
 2.**Clear Function (C):**
   -Clears the display and resets all values.
