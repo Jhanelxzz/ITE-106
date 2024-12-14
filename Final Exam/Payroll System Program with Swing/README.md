@@ -32,5 +32,5 @@ The **Payroll System** is a simple GUI-based application written in Java that al
 
    - Ensure the payroll.txt file exists in the same directory as the Java file. If the file does not exist, the application will create it automatically when saving or loading payroll records.
    - Payroll records are stored in payroll.txt in the following format:
-    employeeID,name,hourlyRate,hoursWorked,grossPay,netPay
+    (employeeID,name,hourlyRate,hoursWorked,grossPay,netPay)
    - The system calculates net pay as 80% of gross pay for each employee.
